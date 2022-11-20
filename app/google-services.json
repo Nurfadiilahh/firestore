@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "287761561886",
+    "project_id": "modul5firestore",
+    "storage_bucket": "modul5firestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287761561886:android:7aae9c129cf343856c310f",
+        "android_client_info": {
+          "package_name": "com.NurFadillah_f55121047.firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287761561886-dnck4bvlt910ntvl9um55tpohnul5k9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIWsQQNX39jVxqTgXSbx2BnZdndpKmUPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287761561886-dnck4bvlt910ntvl9um55tpohnul5k9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
